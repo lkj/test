@@ -1,5 +1,5 @@
 public class Dyrektor extends Kierownik{
-
+//komentarz
 	protected int delegacje;
 	
 	public Dyrektor(String nazwisko, int stawka, int staz, int dodatek, int delegecje) {
